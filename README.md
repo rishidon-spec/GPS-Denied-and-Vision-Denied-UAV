@@ -22,7 +22,3 @@ Standard drones lose localization indoors, underground, or in jammed areas where
 * `ros2_ws/` — Sensor drivers, EKF fusion nodes, and 3D occupancy grid planner
 * `simulation/` — Gazebo world files for testing zero-light, GPS-denied navigation
 
-## Getting Started
-1. Clone this repository into your ROS 2 workspace:
-   ```bash
-   git clone [https://github.com/your-username/gps-vision-denied-uav.git](https://github.com/your-username/gps-vision-denied-uav.git)
